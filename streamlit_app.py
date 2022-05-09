@@ -1,3 +1,3 @@
 import streamlit
 
-streamlit.title('New learning')
+streamlit.title('New learning now')
